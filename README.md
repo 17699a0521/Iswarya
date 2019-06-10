@@ -9,6 +9,6 @@ the student from mits college are intelligents
 3. Uma
 4. Bhanu
 - pavani
-- jyothi
+    - jyothi
 + iswarya
 _nirosha_
